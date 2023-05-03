@@ -1,0 +1,12 @@
+{
+  "red": {
+    "value": "#c70f0f",
+    "type": "color"
+  },
+  "tokenSetOrder": {
+    "0": {
+      "value": "global",
+      "type": "other"
+    }
+  }
+}
